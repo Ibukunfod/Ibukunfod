@@ -1,16 +1,15 @@
-## Hi there 👋
+## Ibukunoluwa Fodunrin
 
-<!--
-**Ibukunfod/Ibukunfod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operations analyst & builder based in Lagos. I work inside operational problems and build tools to fix them.
 
-Here are some ideas to get you started:
+**Currently:** HR/Ops analyst at UAC Restaurants (200+ employees, multi-brand hospitality group).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Shipping:**
+- **Classify** — HRMS in daily use by my company's HR team. [Case study](https://medium.com/@ibukunfod/what-i-learned-building-an-hrms-used-by-3-hr-managers-and-200-employees-at-a-restaurant-group-ff8d5ae917ba)
+- **Nuru** — financial tracking platform for small businesses
+- **Complii** — compliance training tool for organizations
+- **Sentinel** — stock-tracking tool for hospitality (in development)
+
+**Stack I work in:** SQL, Python (Pandas), Power BI, Tableau, Excel/Power Query, Next.js, Supabase, TypeScript.
+
+**Open to** remote operations, business, product, or HR analyst roles. Reach me: ibukunfod@gmail.com · [LinkedIn](https://www.linkedin.com/in/ibukun-fodunrin) · [Medium](https://medium.com/@ibukunfod)
