@@ -12,4 +12,4 @@ Operations analyst & builder based in Lagos. I work inside operational problems 
 
 **Stack I work in:** SQL, Python (Pandas), Power BI, Tableau, Excel/Power Query, Next.js, Supabase, TypeScript.
 
-**Open to** remote operations, business, product, or HR analyst roles. Reach me: ibukunfod@gmail.com · [LinkedIn](https://www.linkedin.com/in/ibukun-fodunrin) · [Medium](https://medium.com/@ibukunfod)
+**Open to** remote operations, business, product, or HR analyst roles. Reach me: ibukunfod@gmail.com · [LinkedIn](https://www.linkedin.com/in/ibukunoluwa-fodunrin) · [Medium](https://medium.com/@ibukunfod)
