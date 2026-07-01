@@ -16,4 +16,4 @@ Operations analyst & builder based in Lagos. I work inside operational problems 
 
 **Open to** remote operations, business, product, or HR analyst roles. Reach me: ibukunfod@gmail.com
 
-[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40ibukunoluwa--fodunrin-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/ibukunoluwa-fodunrin)  [![Medium](https://www.shieldcn.dev/badge/Medium-Medium-000000.svg?logo=medium&variant=branded&size=sm)](https://medium.com/@ibukunfod)
+[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40ibukunoluwa--fodunrin-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/ibukunoluwa-fodunrin)  [![Medium](https://www.shieldcn.dev/badge/Medium-Medium-000000.svg?logo=medium&variant=branded&size=sm)](https://medium.com/@ibukunfod)  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/last-commit/vercel/next.js.svg?theme=zinc&amp;mode=dark"><img alt="GitHub Last Commit" src="https://shieldcn.dev/github/last-commit/vercel/next.js.svg?theme=zinc&amp;mode=light"></picture>
